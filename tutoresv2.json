@@ -1,0 +1,30 @@
+{
+	"tutores": [
+		{
+			"nombre": "Eloísa",
+			"aPaterno": "García",
+			"aMaterno": "Canseco",
+			"correo": "eloisa.garcia",
+			"alumnos": [
+				"123456",
+				"612345",
+				"561234",
+				"456123",
+				"345612"
+			]
+		},
+		{
+			"nombre": "Everardo",
+			"aPaterno": "Gutierrez",
+			"aMaterno": "Lopez",
+			"correo": "everardo.gutierrez",
+			"alumnos": [
+				"654321",
+				"165432",
+				"126543",
+				"123654",
+				"123465"
+			]
+		}
+	]
+}
