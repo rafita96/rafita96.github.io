@@ -1,0 +1,18 @@
+{
+    "alumnos": [
+        {
+            "nombre": "Rafael",
+            "aPaterno": "Peralta",
+            "aMaterno": "Blanco",
+            "correo": "rafael.peralta.blanco",
+            "clave": "perro"
+        },
+        {
+            "nombre": "Gildardo",
+            "aPaterno": "Rosas",
+            "aMaterno": "Urias",
+            "correo": "gildardo.rosas",
+            "clave": "gato"
+        }
+    ]
+}
