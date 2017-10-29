@@ -1,18 +1,354 @@
 {
-    "alumnos": [
-        {
-            "nombre": "Rafael",
-            "aPaterno": "Peralta",
-            "aMaterno": "Blanco",
-            "correo": "rafael.peralta.blanco",
-            "clave": "perro"
-        },
-        {
-            "nombre": "Gildardo",
-            "aPaterno": "Rosas",
-            "aMaterno": "Urias",
-            "correo": "gildardo.rosas",
-            "clave": "gato"
-        }
-    ]
+ "alumnos": [
+  {
+   "aMaterno": "Galv\u00e1n",
+   "correo": "elo\u00edsa.mart\u00ednez.galv\u00e1n",
+   "aPaterno": "Mart\u00ednez",
+   "nombre": "Elo\u00edsa",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Velasco",
+   "correo": "evelio.ur\u00edas.velasco",
+   "aPaterno": "Ur\u00edas",
+   "nombre": "Evelio",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Velasco",
+   "correo": "anairene.moros.velasco",
+   "aPaterno": "Moros",
+   "nombre": "Anairene",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "\u00c1lvarez",
+   "correo": "pedro.meza.\u00e1lvarez",
+   "aPaterno": "Meza",
+   "nombre": "Pedro",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Ishihara",
+   "correo": "gildardo.galv\u00e1n.ishihara",
+   "aPaterno": "Galv\u00e1n",
+   "nombre": "Gildardo",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Peralta",
+   "correo": "juan.velasco.peralta",
+   "aPaterno": "Velasco",
+   "nombre": "Juan",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Covarrubias",
+   "correo": "evelio.ram\u00edrez.covarrubias",
+   "aPaterno": "Ram\u00edrez",
+   "nombre": "Evelio",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Canseco",
+   "correo": "iv\u00e1n.l\u00f3pez.canseco",
+   "aPaterno": "L\u00f3pez",
+   "nombre": "Iv\u00e1n",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "L\u00f3pez",
+   "correo": "david.covarrubias.l\u00f3pez",
+   "aPaterno": "Covarrubias",
+   "nombre": "David",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Peralta",
+   "correo": "manuel.ur\u00edas.peralta",
+   "aPaterno": "Ur\u00edas",
+   "nombre": "Manuel",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Dom\u00ednguez",
+   "correo": "gabriela.guti\u00e9rrez.dom\u00ednguez",
+   "aPaterno": "Guti\u00e9rrez",
+   "nombre": "Gabriela",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Meza",
+   "correo": "jos\u00e9.kubo.meza",
+   "aPaterno": "Kubo",
+   "nombre": "Jos\u00e9",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "G\u00f3mez",
+   "correo": "juan.ur\u00edas.g\u00f3mez",
+   "aPaterno": "Ur\u00edas",
+   "nombre": "Juan",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Kubo",
+   "correo": "omar.ur\u00edas.kubo",
+   "aPaterno": "Ur\u00edas",
+   "nombre": "Omar",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Ju\u00e1rez",
+   "correo": "victoria.xochihua.ju\u00e1rez",
+   "aPaterno": "Xochihua",
+   "nombre": "Victoria",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Velasco",
+   "correo": "anairene.meza.velasco",
+   "aPaterno": "Meza",
+   "nombre": "Anairene",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Le\u00f3n",
+   "correo": "juan.rios.le\u00f3n",
+   "aPaterno": "Rios",
+   "nombre": "Juan",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Ram\u00edrez",
+   "correo": "victoria.xochihua.ram\u00edrez",
+   "aPaterno": "Xochihua",
+   "nombre": "Victoria",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Villegas",
+   "correo": "victoria.l\u00f3pez.villegas",
+   "aPaterno": "L\u00f3pez",
+   "nombre": "Victoria",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Moros",
+   "correo": "eunice.le\u00f3n.moros",
+   "aPaterno": "Le\u00f3n",
+   "nombre": "Eunice",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Dom\u00ednguez",
+   "correo": "rafael.\u00e1lvarez.dom\u00ednguez",
+   "aPaterno": "\u00c1lvarez",
+   "nombre": "Rafael",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Mart\u00ednez",
+   "correo": "roberto.\u00e1lvarez.mart\u00ednez",
+   "aPaterno": "\u00c1lvarez",
+   "nombre": "Roberto",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Ram\u00edrez",
+   "correo": "roberto.guti\u00e9rrez.ram\u00edrez",
+   "aPaterno": "Guti\u00e9rrez",
+   "nombre": "Roberto",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Rosas",
+   "correo": "pedro.covarrubias.rosas",
+   "aPaterno": "Covarrubias",
+   "nombre": "Pedro",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Rios",
+   "correo": "david.\u00e1lvarez.rios",
+   "aPaterno": "\u00c1lvarez",
+   "nombre": "David",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Moran",
+   "correo": "gabriela.velasco.moran",
+   "aPaterno": "Velasco",
+   "nombre": "Gabriela",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Blanco",
+   "correo": "everardo.moros.blanco",
+   "aPaterno": "Moros",
+   "nombre": "Everardo",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Mart\u00ednez",
+   "correo": "iv\u00e1n.p\u00e9rez.mart\u00ednez",
+   "aPaterno": "P\u00e9rez",
+   "nombre": "Iv\u00e1n",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Moran",
+   "correo": "gildardo.canseco.moran",
+   "aPaterno": "Canseco",
+   "nombre": "Gildardo",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Rios",
+   "correo": "evelio.guti\u00e9rrez.rios",
+   "aPaterno": "Guti\u00e9rrez",
+   "nombre": "Evelio",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Galv\u00e1n",
+   "correo": "roberto.p\u00e9rez.galv\u00e1n",
+   "aPaterno": "P\u00e9rez",
+   "nombre": "Roberto",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Xochihua",
+   "correo": "manuel.villegas.xochihua",
+   "aPaterno": "Villegas",
+   "nombre": "Manuel",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Villegas",
+   "correo": "iv\u00e1n.rosas.villegas",
+   "aPaterno": "Rosas",
+   "nombre": "Iv\u00e1n",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Ishihara",
+   "correo": "anairene.villegas.ishihara",
+   "aPaterno": "Villegas",
+   "nombre": "Anairene",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Mart\u00ednez",
+   "correo": "juan.meza.mart\u00ednez",
+   "aPaterno": "Meza",
+   "nombre": "Juan",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Ram\u00edrez",
+   "correo": "roberto.\u00e1lvarez.ram\u00edrez",
+   "aPaterno": "\u00c1lvarez",
+   "nombre": "Roberto",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Rosas",
+   "correo": "jos\u00e9.blanco.rosas",
+   "aPaterno": "Blanco",
+   "nombre": "Jos\u00e9",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "P\u00e9rez",
+   "correo": "elo\u00edsa.peralta.p\u00e9rez",
+   "aPaterno": "Peralta",
+   "nombre": "Elo\u00edsa",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Mart\u00ednez",
+   "correo": "leopoldo.p\u00e9rez.mart\u00ednez",
+   "aPaterno": "P\u00e9rez",
+   "nombre": "Leopoldo",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Meza",
+   "correo": "jes\u00fas.ishihara.meza",
+   "aPaterno": "Ishihara",
+   "nombre": "Jes\u00fas",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Velasco",
+   "correo": "francisco.ram\u00edrez.velasco",
+   "aPaterno": "Ram\u00edrez",
+   "nombre": "Francisco",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Villegas",
+   "correo": "carlos.dom\u00ednguez.villegas",
+   "aPaterno": "Dom\u00ednguez",
+   "nombre": "Carlos",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Guti\u00e9rrez",
+   "correo": "eunice.p\u00e9rez.guti\u00e9rrez",
+   "aPaterno": "P\u00e9rez",
+   "nombre": "Eunice",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "P\u00e9rez",
+   "correo": "david.ju\u00e1rez.p\u00e9rez",
+   "aPaterno": "Ju\u00e1rez",
+   "nombre": "David",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Kubo",
+   "correo": "jos\u00e9.dom\u00ednguez.kubo",
+   "aPaterno": "Dom\u00ednguez",
+   "nombre": "Jos\u00e9",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Garc\u00eda",
+   "correo": "humberto.peralta.garc\u00eda",
+   "aPaterno": "Peralta",
+   "nombre": "Humberto",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "P\u00e9rez",
+   "correo": "rafael.ram\u00edrez.p\u00e9rez",
+   "aPaterno": "Ram\u00edrez",
+   "nombre": "Rafael",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Canseco",
+   "correo": "humberto.mart\u00ednez.canseco",
+   "aPaterno": "Mart\u00ednez",
+   "nombre": "Humberto",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "Moran",
+   "correo": "david.g\u00f3mez.moran",
+   "aPaterno": "G\u00f3mez",
+   "nombre": "David",
+   "clave": 123456
+  },
+  {
+   "aMaterno": "G\u00f3mez",
+   "correo": "roberto.l\u00f3pez.g\u00f3mez",
+   "aPaterno": "L\u00f3pez",
+   "nombre": "Roberto",
+   "clave": 123456
+  }
+ ]
 }
