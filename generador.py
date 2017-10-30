@@ -11,7 +11,16 @@ apellidos = ["Peralta", "Blanco", "Rosas", "Urías", "Carrillo", "León",
 "Ramírez", "Covarrubias", "López", "Gómez", "Pérez", "Gutiérrez", "Kubo",
 "Meza", "Canseco", "García", "Moran", "Xochihua", "Álvarez", "Martínez", "Juárez"]
 
-def main():
+facultades = { "Ciencias" : ["Ciencias Computacionales", "Física", "Matemáticas", "Biología"], 
+"Marinas" : ["Oceanología", "Ciencias Ambientales", "Biotecnología en Acuacultura"],
+"Ingeniería" : ["Ingeniero Civil", "Ingeniero Electrónico", "Ingeniero en Computación",
+                "Ingeniero Industrial", "Arquitecto", "Bioingeniero", "Ingeniero en Nanotecnologia"],
+"Gastronomía" : ["Gastronomía"],
+"Deportes" : ["Actividad Física"],
+"Ciencias de la Salud" : ["Enfermería", "Medicina"]
+}
+
+def alumnos():
     personas = {}
     personas["alumnos"] = []
 
@@ -35,9 +44,12 @@ def main():
         persona["fecha_nacimiento"]["mes"] = random.randint(1, 12)
         persona["fecha_nacimiento"]["ano"] = random.randint(1985, 1999)
 
+        persona["facultad"] = random.choice(list(facultades.keys()))
+        persona["carrera"] = random.choice( facultades[persona["facultad"]] )
+
         personas["alumnos"].append(persona)
 
     with open("alumnos.json", "w+", encoding="utf-8") as file:
         file.write(json.dumps(personas, indent=1))
 
-main()
+alumnos()

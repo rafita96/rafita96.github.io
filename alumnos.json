@@ -1,654 +1,754 @@
 {
  "alumnos": [
   {
+   "nombre": "Juan",
+   "facultad": "Gastronom\u00eda",
+   "clave": "123456",
    "matricula": "342400",
-   "aPaterno": "Canseco",
-   "nombre": "Mar\u00eda",
-   "correo": "mar\u00eda.canseco.dom\u00ednguez",
-   "clave": "123456",
-   "aMaterno": "Dom\u00ednguez",
+   "correo": "juan.mart\u00ednez.villegas",
+   "aMaterno": "Villegas",
    "fecha_nacimiento": {
-    "dia": 13,
-    "mes": 5,
-    "ano": 1993
-   }
-  },
-  {
-   "matricula": "342401",
-   "aPaterno": "L\u00f3pez",
-   "nombre": "Eunice",
-   "correo": "eunice.l\u00f3pez.ram\u00edrez",
-   "clave": "123456",
-   "aMaterno": "Ram\u00edrez",
-   "fecha_nacimiento": {
-    "dia": 28,
-    "mes": 7,
-    "ano": 1996
-   }
-  },
-  {
-   "matricula": "342402",
-   "aPaterno": "Moran",
-   "nombre": "Eunice",
-   "correo": "eunice.moran.garc\u00eda",
-   "clave": "123456",
-   "aMaterno": "Garc\u00eda",
-   "fecha_nacimiento": {
-    "dia": 25,
-    "mes": 9,
-    "ano": 1993
-   }
-  },
-  {
-   "matricula": "342403",
-   "aPaterno": "Guti\u00e9rrez",
-   "nombre": "Pedro",
-   "correo": "pedro.guti\u00e9rrez.mart\u00ednez",
-   "clave": "123456",
-   "aMaterno": "Mart\u00ednez",
-   "fecha_nacimiento": {
-    "dia": 9,
-    "mes": 4,
-    "ano": 1991
-   }
-  },
-  {
-   "matricula": "342404",
-   "aPaterno": "Villegas",
-   "nombre": "Roberto",
-   "correo": "roberto.villegas.p\u00e9rez",
-   "clave": "123456",
-   "aMaterno": "P\u00e9rez",
-   "fecha_nacimiento": {
-    "dia": 23,
-    "mes": 10,
-    "ano": 1997
-   }
-  },
-  {
-   "matricula": "342405",
-   "aPaterno": "P\u00e9rez",
-   "nombre": "Leopoldo",
-   "correo": "leopoldo.p\u00e9rez.moran",
-   "clave": "123456",
-   "aMaterno": "Moran",
-   "fecha_nacimiento": {
-    "dia": 6,
-    "mes": 10,
-    "ano": 1995
-   }
-  },
-  {
-   "matricula": "342406",
-   "aPaterno": "Xochihua",
-   "nombre": "Iv\u00e1n",
-   "correo": "iv\u00e1n.xochihua.moran",
-   "clave": "123456",
-   "aMaterno": "Moran",
-   "fecha_nacimiento": {
-    "dia": 16,
-    "mes": 7,
-    "ano": 1985
-   }
-  },
-  {
-   "matricula": "342407",
-   "aPaterno": "Moran",
-   "nombre": "Omar",
-   "correo": "omar.moran.dom\u00ednguez",
-   "clave": "123456",
-   "aMaterno": "Dom\u00ednguez",
-   "fecha_nacimiento": {
-    "dia": 4,
-    "mes": 3,
-    "ano": 1986
-   }
-  },
-  {
-   "matricula": "342408",
-   "aPaterno": "Blanco",
-   "nombre": "Evelio",
-   "correo": "evelio.blanco.rosas",
-   "clave": "123456",
-   "aMaterno": "Rosas",
-   "fecha_nacimiento": {
-    "dia": 7,
-    "mes": 10,
-    "ano": 1994
-   }
-  },
-  {
-   "matricula": "342409",
-   "aPaterno": "Le\u00f3n",
-   "nombre": "Gabriela",
-   "correo": "gabriela.le\u00f3n.g\u00f3mez",
-   "clave": "123456",
-   "aMaterno": "G\u00f3mez",
-   "fecha_nacimiento": {
-    "dia": 15,
-    "mes": 6,
-    "ano": 1994
-   }
-  },
-  {
-   "matricula": "342410",
-   "aPaterno": "Le\u00f3n",
-   "nombre": "Eunice",
-   "correo": "eunice.le\u00f3n.peralta",
-   "clave": "123456",
-   "aMaterno": "Peralta",
-   "fecha_nacimiento": {
-    "dia": 15,
-    "mes": 11,
-    "ano": 1990
-   }
-  },
-  {
-   "matricula": "342411",
-   "aPaterno": "Guti\u00e9rrez",
-   "nombre": "Jes\u00fas",
-   "correo": "jes\u00fas.guti\u00e9rrez.meza",
-   "clave": "123456",
-   "aMaterno": "Meza",
-   "fecha_nacimiento": {
-    "dia": 7,
-    "mes": 4,
-    "ano": 1987
-   }
-  },
-  {
-   "matricula": "342412",
-   "aPaterno": "Ju\u00e1rez",
-   "nombre": "Gildardo",
-   "correo": "gildardo.ju\u00e1rez.mart\u00ednez",
-   "clave": "123456",
-   "aMaterno": "Mart\u00ednez",
-   "fecha_nacimiento": {
-    "dia": 8,
-    "mes": 11,
-    "ano": 1996
-   }
-  },
-  {
-   "matricula": "342413",
-   "aPaterno": "Covarrubias",
-   "nombre": "Victoria",
-   "correo": "victoria.covarrubias.meza",
-   "clave": "123456",
-   "aMaterno": "Meza",
-   "fecha_nacimiento": {
-    "dia": 25,
-    "mes": 4,
-    "ano": 1990
-   }
-  },
-  {
-   "matricula": "342414",
-   "aPaterno": "Dom\u00ednguez",
-   "nombre": "Humberto",
-   "correo": "humberto.dom\u00ednguez.peralta",
-   "clave": "123456",
-   "aMaterno": "Peralta",
-   "fecha_nacimiento": {
-    "dia": 27,
-    "mes": 10,
-    "ano": 1999
-   }
-  },
-  {
-   "matricula": "342415",
-   "aPaterno": "Canseco",
-   "nombre": "Rafael",
-   "correo": "rafael.canseco.rios",
-   "clave": "123456",
-   "aMaterno": "Rios",
-   "fecha_nacimiento": {
-    "dia": 3,
-    "mes": 9,
-    "ano": 1990
-   }
-  },
-  {
-   "matricula": "342416",
-   "aPaterno": "Rios",
-   "nombre": "Mar\u00eda",
-   "correo": "mar\u00eda.rios.rosas",
-   "clave": "123456",
-   "aMaterno": "Rosas",
-   "fecha_nacimiento": {
-    "dia": 22,
-    "mes": 8,
-    "ano": 1994
-   }
-  },
-  {
-   "matricula": "342417",
-   "aPaterno": "Ram\u00edrez",
-   "nombre": "Anairene",
-   "correo": "anairene.ram\u00edrez.rios",
-   "clave": "123456",
-   "aMaterno": "Rios",
-   "fecha_nacimiento": {
+    "ano": 1998,
     "dia": 10,
-    "mes": 10,
-    "ano": 1994
-   }
+    "mes": 5
+   },
+   "carrera": "Gastronom\u00eda",
+   "aPaterno": "Mart\u00ednez"
   },
   {
-   "matricula": "342418",
-   "aPaterno": "Velasco",
-   "nombre": "Anairene",
-   "correo": "anairene.velasco.ram\u00edrez",
-   "clave": "123456",
-   "aMaterno": "Ram\u00edrez",
-   "fecha_nacimiento": {
-    "dia": 15,
-    "mes": 3,
-    "ano": 1992
-   }
-  },
-  {
-   "matricula": "342419",
-   "aPaterno": "Rios",
    "nombre": "Carlos",
-   "correo": "carlos.rios.villegas",
+   "facultad": "Gastronom\u00eda",
    "clave": "123456",
-   "aMaterno": "Villegas",
-   "fecha_nacimiento": {
-    "dia": 19,
-    "mes": 4,
-    "ano": 1991
-   }
-  },
-  {
-   "matricula": "342420",
-   "aPaterno": "Peralta",
-   "nombre": "Victoria",
-   "correo": "victoria.peralta.g\u00f3mez",
-   "clave": "123456",
-   "aMaterno": "G\u00f3mez",
-   "fecha_nacimiento": {
-    "dia": 1,
-    "mes": 6,
-    "ano": 1990
-   }
-  },
-  {
-   "matricula": "342421",
-   "aPaterno": "Le\u00f3n",
-   "nombre": "Gabriela",
-   "correo": "gabriela.le\u00f3n.peralta",
-   "clave": "123456",
-   "aMaterno": "Peralta",
-   "fecha_nacimiento": {
-    "dia": 22,
-    "mes": 7,
-    "ano": 1997
-   }
-  },
-  {
-   "matricula": "342422",
-   "aPaterno": "Ram\u00edrez",
-   "nombre": "Omar",
-   "correo": "omar.ram\u00edrez.velasco",
-   "clave": "123456",
-   "aMaterno": "Velasco",
-   "fecha_nacimiento": {
-    "dia": 7,
-    "mes": 2,
-    "ano": 1994
-   }
-  },
-  {
-   "matricula": "342423",
-   "aPaterno": "Ju\u00e1rez",
-   "nombre": "Mar\u00eda",
-   "correo": "mar\u00eda.ju\u00e1rez.\u00e1lvarez",
-   "clave": "123456",
-   "aMaterno": "\u00c1lvarez",
-   "fecha_nacimiento": {
-    "dia": 6,
-    "mes": 12,
-    "ano": 1987
-   }
-  },
-  {
-   "matricula": "342424",
-   "aPaterno": "Rios",
-   "nombre": "Elo\u00edsa",
-   "correo": "elo\u00edsa.rios.garc\u00eda",
-   "clave": "123456",
-   "aMaterno": "Garc\u00eda",
-   "fecha_nacimiento": {
-    "dia": 19,
-    "mes": 5,
-    "ano": 1999
-   }
-  },
-  {
-   "matricula": "342425",
-   "aPaterno": "P\u00e9rez",
-   "nombre": "Mar\u00eda",
-   "correo": "mar\u00eda.p\u00e9rez.ram\u00edrez",
-   "clave": "123456",
+   "matricula": "342401",
+   "correo": "carlos.villegas.ram\u00edrez",
    "aMaterno": "Ram\u00edrez",
    "fecha_nacimiento": {
-    "dia": 20,
-    "mes": 1,
-    "ano": 1994
-   }
-  },
-  {
-   "matricula": "342426",
-   "aPaterno": "Ju\u00e1rez",
-   "nombre": "Omar",
-   "correo": "omar.ju\u00e1rez.guti\u00e9rrez",
-   "clave": "123456",
-   "aMaterno": "Guti\u00e9rrez",
-   "fecha_nacimiento": {
-    "dia": 18,
-    "mes": 12,
-    "ano": 1993
-   }
-  },
-  {
-   "matricula": "342427",
-   "aPaterno": "Moros",
-   "nombre": "Everardo",
-   "correo": "everardo.moros.villegas",
-   "clave": "123456",
-   "aMaterno": "Villegas",
-   "fecha_nacimiento": {
-    "dia": 21,
-    "mes": 6,
-    "ano": 1988
-   }
-  },
-  {
-   "matricula": "342428",
-   "aPaterno": "P\u00e9rez",
-   "nombre": "Everardo",
-   "correo": "everardo.p\u00e9rez.ishihara",
-   "clave": "123456",
-   "aMaterno": "Ishihara",
-   "fecha_nacimiento": {
-    "dia": 2,
-    "mes": 3,
-    "ano": 1994
-   }
-  },
-  {
-   "matricula": "342429",
-   "aPaterno": "Xochihua",
-   "nombre": "Jos\u00e9",
-   "correo": "jos\u00e9.xochihua.garc\u00eda",
-   "clave": "123456",
-   "aMaterno": "Garc\u00eda",
-   "fecha_nacimiento": {
-    "dia": 7,
-    "mes": 4,
-    "ano": 1992
-   }
-  },
-  {
-   "matricula": "342430",
-   "aPaterno": "Covarrubias",
-   "nombre": "Victoria",
-   "correo": "victoria.covarrubias.g\u00f3mez",
-   "clave": "123456",
-   "aMaterno": "G\u00f3mez",
-   "fecha_nacimiento": {
+    "ano": 1998,
     "dia": 3,
-    "mes": 2,
-    "ano": 1985
-   }
+    "mes": 10
+   },
+   "carrera": "Gastronom\u00eda",
+   "aPaterno": "Villegas"
   },
   {
-   "matricula": "342431",
-   "aPaterno": "Covarrubias",
-   "nombre": "Humberto",
-   "correo": "humberto.covarrubias.kubo",
+   "nombre": "Gabriela",
+   "facultad": "Ciencias",
    "clave": "123456",
-   "aMaterno": "Kubo",
+   "matricula": "342402",
+   "correo": "gabriela.velasco.rios",
+   "aMaterno": "Rios",
    "fecha_nacimiento": {
-    "dia": 20,
-    "mes": 11,
-    "ano": 1992
-   }
+    "ano": 1986,
+    "dia": 6,
+    "mes": 5
+   },
+   "carrera": "F\u00edsica",
+   "aPaterno": "Velasco"
   },
   {
-   "matricula": "342432",
-   "aPaterno": "Covarrubias",
-   "nombre": "Mar\u00eda",
-   "correo": "mar\u00eda.covarrubias.le\u00f3n",
+   "nombre": "Elo\u00edsa",
+   "facultad": "Gastronom\u00eda",
    "clave": "123456",
-   "aMaterno": "Le\u00f3n",
-   "fecha_nacimiento": {
-    "dia": 7,
-    "mes": 10,
-    "ano": 1985
-   }
-  },
-  {
-   "matricula": "342433",
-   "aPaterno": "P\u00e9rez",
-   "nombre": "Jes\u00fas",
-   "correo": "jes\u00fas.p\u00e9rez.galv\u00e1n",
-   "clave": "123456",
+   "matricula": "342403",
+   "correo": "elo\u00edsa.xochihua.galv\u00e1n",
    "aMaterno": "Galv\u00e1n",
    "fecha_nacimiento": {
+    "ano": 1991,
+    "dia": 25,
+    "mes": 10
+   },
+   "carrera": "Gastronom\u00eda",
+   "aPaterno": "Xochihua"
+  },
+  {
+   "nombre": "Francisco",
+   "facultad": "Ciencias",
+   "clave": "123456",
+   "matricula": "342404",
+   "correo": "francisco.rios.l\u00f3pez",
+   "aMaterno": "L\u00f3pez",
+   "fecha_nacimiento": {
+    "ano": 1996,
+    "dia": 9,
+    "mes": 1
+   },
+   "carrera": "Biolog\u00eda",
+   "aPaterno": "Rios"
+  },
+  {
+   "nombre": "Juan",
+   "facultad": "Ciencias",
+   "clave": "123456",
+   "matricula": "342405",
+   "correo": "juan.meza.rios",
+   "aMaterno": "Rios",
+   "fecha_nacimiento": {
+    "ano": 1988,
+    "dia": 25,
+    "mes": 4
+   },
+   "carrera": "Biolog\u00eda",
+   "aPaterno": "Meza"
+  },
+  {
+   "nombre": "Victoria",
+   "facultad": "Ciencias",
+   "clave": "123456",
+   "matricula": "342406",
+   "correo": "victoria.rios.guti\u00e9rrez",
+   "aMaterno": "Guti\u00e9rrez",
+   "fecha_nacimiento": {
+    "ano": 1991,
+    "dia": 24,
+    "mes": 8
+   },
+   "carrera": "Matem\u00e1ticas",
+   "aPaterno": "Rios"
+  },
+  {
+   "nombre": "Francisco",
+   "facultad": "Ingenier\u00eda",
+   "clave": "123456",
+   "matricula": "342407",
+   "correo": "francisco.xochihua.ju\u00e1rez",
+   "aMaterno": "Ju\u00e1rez",
+   "fecha_nacimiento": {
+    "ano": 1996,
+    "dia": 4,
+    "mes": 11
+   },
+   "carrera": "Ingeniero Civil",
+   "aPaterno": "Xochihua"
+  },
+  {
+   "nombre": "Leopoldo",
+   "facultad": "Ciencias",
+   "clave": "123456",
+   "matricula": "342408",
+   "correo": "leopoldo.p\u00e9rez.rosas",
+   "aMaterno": "Rosas",
+   "fecha_nacimiento": {
+    "ano": 1999,
     "dia": 21,
-    "mes": 7,
-    "ano": 1999
-   }
+    "mes": 2
+   },
+   "carrera": "Matem\u00e1ticas",
+   "aPaterno": "P\u00e9rez"
   },
   {
-   "matricula": "342434",
-   "aPaterno": "Peralta",
-   "nombre": "Carlos",
-   "correo": "carlos.peralta.g\u00f3mez",
+   "nombre": "Evelio",
+   "facultad": "Ciencias de la Salud",
    "clave": "123456",
-   "aMaterno": "G\u00f3mez",
+   "matricula": "342409",
+   "correo": "evelio.le\u00f3n.garc\u00eda",
+   "aMaterno": "Garc\u00eda",
    "fecha_nacimiento": {
-    "dia": 17,
-    "mes": 4,
-    "ano": 1990
-   }
+    "ano": 1992,
+    "dia": 10,
+    "mes": 5
+   },
+   "carrera": "Medicina",
+   "aPaterno": "Le\u00f3n"
   },
   {
-   "matricula": "342435",
-   "aPaterno": "Guti\u00e9rrez",
-   "nombre": "David",
-   "correo": "david.guti\u00e9rrez.ishihara",
+   "nombre": "Francisco",
+   "facultad": "Ciencias de la Salud",
    "clave": "123456",
-   "aMaterno": "Ishihara",
+   "matricula": "342410",
+   "correo": "francisco.covarrubias.galv\u00e1n",
+   "aMaterno": "Galv\u00e1n",
    "fecha_nacimiento": {
-    "dia": 20,
-    "mes": 8,
-    "ano": 1997
-   }
+    "ano": 1999,
+    "dia": 16,
+    "mes": 8
+   },
+   "carrera": "Enfermer\u00eda",
+   "aPaterno": "Covarrubias"
   },
   {
-   "matricula": "342436",
-   "aPaterno": "Moros",
-   "nombre": "Iv\u00e1n",
-   "correo": "iv\u00e1n.moros.velasco",
+   "nombre": "Omar",
+   "facultad": "Ciencias",
    "clave": "123456",
-   "aMaterno": "Velasco",
+   "matricula": "342411",
+   "correo": "omar.p\u00e9rez.mart\u00ednez",
+   "aMaterno": "Mart\u00ednez",
    "fecha_nacimiento": {
-    "dia": 3,
-    "mes": 5,
-    "ano": 1999
-   }
+    "ano": 1988,
+    "dia": 28,
+    "mes": 12
+   },
+   "carrera": "Ciencias Computacionales",
+   "aPaterno": "P\u00e9rez"
   },
   {
-   "matricula": "342437",
-   "aPaterno": "Garc\u00eda",
-   "nombre": "Iv\u00e1n",
-   "correo": "iv\u00e1n.garc\u00eda.canseco",
+   "nombre": "Victoria",
+   "facultad": "Gastronom\u00eda",
    "clave": "123456",
+   "matricula": "342412",
+   "correo": "victoria.villegas.mart\u00ednez",
+   "aMaterno": "Mart\u00ednez",
+   "fecha_nacimiento": {
+    "ano": 1999,
+    "dia": 15,
+    "mes": 5
+   },
+   "carrera": "Gastronom\u00eda",
+   "aPaterno": "Villegas"
+  },
+  {
+   "nombre": "Manuel",
+   "facultad": "Ingenier\u00eda",
+   "clave": "123456",
+   "matricula": "342413",
+   "correo": "manuel.\u00e1lvarez.\u00e1lvarez",
+   "aMaterno": "\u00c1lvarez",
+   "fecha_nacimiento": {
+    "ano": 1997,
+    "dia": 11,
+    "mes": 6
+   },
+   "carrera": "Ingeniero Industrial",
+   "aPaterno": "\u00c1lvarez"
+  },
+  {
+   "nombre": "Eunice",
+   "facultad": "Deportes",
+   "clave": "123456",
+   "matricula": "342414",
+   "correo": "eunice.ram\u00edrez.canseco",
    "aMaterno": "Canseco",
    "fecha_nacimiento": {
-    "dia": 15,
-    "mes": 7,
-    "ano": 1992
-   }
+    "ano": 1986,
+    "dia": 19,
+    "mes": 4
+   },
+   "carrera": "Actividad F\u00edsica",
+   "aPaterno": "Ram\u00edrez"
   },
   {
-   "matricula": "342438",
-   "aPaterno": "Xochihua",
-   "nombre": "Manuel",
-   "correo": "manuel.xochihua.ishihara",
+   "nombre": "David",
+   "facultad": "Deportes",
    "clave": "123456",
+   "matricula": "342415",
+   "correo": "david.carrillo.peralta",
+   "aMaterno": "Peralta",
+   "fecha_nacimiento": {
+    "ano": 1999,
+    "dia": 6,
+    "mes": 12
+   },
+   "carrera": "Actividad F\u00edsica",
+   "aPaterno": "Carrillo"
+  },
+  {
+   "nombre": "Leopoldo",
+   "facultad": "Gastronom\u00eda",
+   "clave": "123456",
+   "matricula": "342416",
+   "correo": "leopoldo.ram\u00edrez.rosas",
+   "aMaterno": "Rosas",
+   "fecha_nacimiento": {
+    "ano": 1991,
+    "dia": 9,
+    "mes": 8
+   },
+   "carrera": "Gastronom\u00eda",
+   "aPaterno": "Ram\u00edrez"
+  },
+  {
+   "nombre": "Elo\u00edsa",
+   "facultad": "Deportes",
+   "clave": "123456",
+   "matricula": "342417",
+   "correo": "elo\u00edsa.ju\u00e1rez.ishihara",
    "aMaterno": "Ishihara",
    "fecha_nacimiento": {
-    "dia": 15,
-    "mes": 8,
-    "ano": 1987
-   }
+    "ano": 1993,
+    "dia": 1,
+    "mes": 8
+   },
+   "carrera": "Actividad F\u00edsica",
+   "aPaterno": "Ju\u00e1rez"
   },
   {
-   "matricula": "342439",
-   "aPaterno": "Ju\u00e1rez",
-   "nombre": "Rafael",
-   "correo": "rafael.ju\u00e1rez.carrillo",
+   "nombre": "Jos\u00e9",
+   "facultad": "Ciencias",
    "clave": "123456",
-   "aMaterno": "Carrillo",
+   "matricula": "342418",
+   "correo": "jos\u00e9.g\u00f3mez.ram\u00edrez",
+   "aMaterno": "Ram\u00edrez",
    "fecha_nacimiento": {
-    "dia": 17,
-    "mes": 12,
-    "ano": 1986
-   }
+    "ano": 1999,
+    "dia": 16,
+    "mes": 8
+   },
+   "carrera": "Matem\u00e1ticas",
+   "aPaterno": "G\u00f3mez"
   },
   {
-   "matricula": "342440",
-   "aPaterno": "Carrillo",
    "nombre": "Humberto",
-   "correo": "humberto.carrillo.velasco",
+   "facultad": "Ciencias",
    "clave": "123456",
-   "aMaterno": "Velasco",
+   "matricula": "342419",
+   "correo": "humberto.garc\u00eda.covarrubias",
+   "aMaterno": "Covarrubias",
    "fecha_nacimiento": {
-    "dia": 28,
-    "mes": 2,
-    "ano": 1999
-   }
+    "ano": 1991,
+    "dia": 14,
+    "mes": 6
+   },
+   "carrera": "Ciencias Computacionales",
+   "aPaterno": "Garc\u00eda"
   },
   {
-   "matricula": "342441",
-   "aPaterno": "Garc\u00eda",
    "nombre": "Victoria",
-   "correo": "victoria.garc\u00eda.villegas",
+   "facultad": "Deportes",
    "clave": "123456",
-   "aMaterno": "Villegas",
-   "fecha_nacimiento": {
-    "dia": 22,
-    "mes": 6,
-    "ano": 1988
-   }
-  },
-  {
-   "matricula": "342442",
-   "aPaterno": "Kubo",
-   "nombre": "Francisco",
-   "correo": "francisco.kubo.le\u00f3n",
-   "clave": "123456",
-   "aMaterno": "Le\u00f3n",
-   "fecha_nacimiento": {
-    "dia": 6,
-    "mes": 3,
-    "ano": 1996
-   }
-  },
-  {
-   "matricula": "342443",
-   "aPaterno": "Ishihara",
-   "nombre": "David",
-   "correo": "david.ishihara.dom\u00ednguez",
-   "clave": "123456",
-   "aMaterno": "Dom\u00ednguez",
-   "fecha_nacimiento": {
-    "dia": 19,
-    "mes": 1,
-    "ano": 1999
-   }
-  },
-  {
-   "matricula": "342444",
-   "aPaterno": "Blanco",
-   "nombre": "Jes\u00fas",
-   "correo": "jes\u00fas.blanco.g\u00f3mez",
-   "clave": "123456",
-   "aMaterno": "G\u00f3mez",
-   "fecha_nacimiento": {
-    "dia": 27,
-    "mes": 11,
-    "ano": 1993
-   }
-  },
-  {
-   "matricula": "342445",
-   "aPaterno": "Canseco",
-   "nombre": "Elo\u00edsa",
-   "correo": "elo\u00edsa.canseco.moros",
-   "clave": "123456",
+   "matricula": "342420",
+   "correo": "victoria.covarrubias.moros",
    "aMaterno": "Moros",
    "fecha_nacimiento": {
-    "dia": 6,
-    "mes": 5,
-    "ano": 1997
-   }
+    "ano": 1988,
+    "dia": 5,
+    "mes": 4
+   },
+   "carrera": "Actividad F\u00edsica",
+   "aPaterno": "Covarrubias"
   },
   {
-   "matricula": "342446",
-   "aPaterno": "Ur\u00edas",
    "nombre": "Francisco",
-   "correo": "francisco.ur\u00edas.ishihara",
+   "facultad": "Gastronom\u00eda",
    "clave": "123456",
-   "aMaterno": "Ishihara",
+   "matricula": "342421",
+   "correo": "francisco.\u00e1lvarez.p\u00e9rez",
+   "aMaterno": "P\u00e9rez",
    "fecha_nacimiento": {
-    "dia": 1,
-    "mes": 10,
-    "ano": 1999
-   }
+    "ano": 1985,
+    "dia": 3,
+    "mes": 8
+   },
+   "carrera": "Gastronom\u00eda",
+   "aPaterno": "\u00c1lvarez"
   },
   {
-   "matricula": "342447",
-   "aPaterno": "Peralta",
-   "nombre": "Francisco",
-   "correo": "francisco.peralta.carrillo",
+   "nombre": "Anairene",
+   "facultad": "Ingenier\u00eda",
    "clave": "123456",
-   "aMaterno": "Carrillo",
+   "matricula": "342422",
+   "correo": "anairene.xochihua.villegas",
+   "aMaterno": "Villegas",
    "fecha_nacimiento": {
-    "dia": 6,
-    "mes": 2,
-    "ano": 1995
-   }
+    "ano": 1998,
+    "dia": 27,
+    "mes": 1
+   },
+   "carrera": "Ingeniero Civil",
+   "aPaterno": "Xochihua"
   },
   {
-   "matricula": "342448",
-   "aPaterno": "Covarrubias",
+   "nombre": "Evelio",
+   "facultad": "Marinas",
+   "clave": "123456",
+   "matricula": "342423",
+   "correo": "evelio.galv\u00e1n.p\u00e9rez",
+   "aMaterno": "P\u00e9rez",
+   "fecha_nacimiento": {
+    "ano": 1997,
+    "dia": 3,
+    "mes": 11
+   },
+   "carrera": "Oceanolog\u00eda",
+   "aPaterno": "Galv\u00e1n"
+  },
+  {
    "nombre": "David",
-   "correo": "david.covarrubias.velasco",
+   "facultad": "Ciencias de la Salud",
    "clave": "123456",
+   "matricula": "342424",
+   "correo": "david.peralta.g\u00f3mez",
+   "aMaterno": "G\u00f3mez",
+   "fecha_nacimiento": {
+    "ano": 1987,
+    "dia": 5,
+    "mes": 11
+   },
+   "carrera": "Medicina",
+   "aPaterno": "Peralta"
+  },
+  {
+   "nombre": "Francisco",
+   "facultad": "Ciencias",
+   "clave": "123456",
+   "matricula": "342425",
+   "correo": "francisco.blanco.mart\u00ednez",
+   "aMaterno": "Mart\u00ednez",
+   "fecha_nacimiento": {
+    "ano": 1988,
+    "dia": 7,
+    "mes": 2
+   },
+   "carrera": "F\u00edsica",
+   "aPaterno": "Blanco"
+  },
+  {
+   "nombre": "Anairene",
+   "facultad": "Gastronom\u00eda",
+   "clave": "123456",
+   "matricula": "342426",
+   "correo": "anairene.covarrubias.p\u00e9rez",
+   "aMaterno": "P\u00e9rez",
+   "fecha_nacimiento": {
+    "ano": 1989,
+    "dia": 21,
+    "mes": 8
+   },
+   "carrera": "Gastronom\u00eda",
+   "aPaterno": "Covarrubias"
+  },
+  {
+   "nombre": "Carlos",
+   "facultad": "Gastronom\u00eda",
+   "clave": "123456",
+   "matricula": "342427",
+   "correo": "carlos.rios.moran",
+   "aMaterno": "Moran",
+   "fecha_nacimiento": {
+    "ano": 1998,
+    "dia": 24,
+    "mes": 6
+   },
+   "carrera": "Gastronom\u00eda",
+   "aPaterno": "Rios"
+  },
+  {
+   "nombre": "Francisco",
+   "facultad": "Marinas",
+   "clave": "123456",
+   "matricula": "342428",
+   "correo": "francisco.covarrubias.le\u00f3n",
+   "aMaterno": "Le\u00f3n",
+   "fecha_nacimiento": {
+    "ano": 1998,
+    "dia": 14,
+    "mes": 10
+   },
+   "carrera": "Oceanolog\u00eda",
+   "aPaterno": "Covarrubias"
+  },
+  {
+   "nombre": "Jos\u00e9",
+   "facultad": "Gastronom\u00eda",
+   "clave": "123456",
+   "matricula": "342429",
+   "correo": "jos\u00e9.carrillo.covarrubias",
+   "aMaterno": "Covarrubias",
+   "fecha_nacimiento": {
+    "ano": 1992,
+    "dia": 7,
+    "mes": 11
+   },
+   "carrera": "Gastronom\u00eda",
+   "aPaterno": "Carrillo"
+  },
+  {
+   "nombre": "Pedro",
+   "facultad": "Ciencias",
+   "clave": "123456",
+   "matricula": "342430",
+   "correo": "pedro.p\u00e9rez.rosas",
+   "aMaterno": "Rosas",
+   "fecha_nacimiento": {
+    "ano": 1985,
+    "dia": 3,
+    "mes": 7
+   },
+   "carrera": "Ciencias Computacionales",
+   "aPaterno": "P\u00e9rez"
+  },
+  {
+   "nombre": "Carlos",
+   "facultad": "Ingenier\u00eda",
+   "clave": "123456",
+   "matricula": "342431",
+   "correo": "carlos.dom\u00ednguez.mart\u00ednez",
+   "aMaterno": "Mart\u00ednez",
+   "fecha_nacimiento": {
+    "ano": 1994,
+    "dia": 15,
+    "mes": 7
+   },
+   "carrera": "Ingeniero en Computaci\u00f3n",
+   "aPaterno": "Dom\u00ednguez"
+  },
+  {
+   "nombre": "Anairene",
+   "facultad": "Ciencias de la Salud",
+   "clave": "123456",
+   "matricula": "342432",
+   "correo": "anairene.moran.moros",
+   "aMaterno": "Moros",
+   "fecha_nacimiento": {
+    "ano": 1992,
+    "dia": 9,
+    "mes": 4
+   },
+   "carrera": "Enfermer\u00eda",
+   "aPaterno": "Moran"
+  },
+  {
+   "nombre": "Elo\u00edsa",
+   "facultad": "Ingenier\u00eda",
+   "clave": "123456",
+   "matricula": "342433",
+   "correo": "elo\u00edsa.meza.villegas",
+   "aMaterno": "Villegas",
+   "fecha_nacimiento": {
+    "ano": 1995,
+    "dia": 10,
+    "mes": 7
+   },
+   "carrera": "Arquitecto",
+   "aPaterno": "Meza"
+  },
+  {
+   "nombre": "David",
+   "facultad": "Ciencias",
+   "clave": "123456",
+   "matricula": "342434",
+   "correo": "david.le\u00f3n.ur\u00edas",
+   "aMaterno": "Ur\u00edas",
+   "fecha_nacimiento": {
+    "ano": 1986,
+    "dia": 28,
+    "mes": 3
+   },
+   "carrera": "Ciencias Computacionales",
+   "aPaterno": "Le\u00f3n"
+  },
+  {
+   "nombre": "Leopoldo",
+   "facultad": "Gastronom\u00eda",
+   "clave": "123456",
+   "matricula": "342435",
+   "correo": "leopoldo.velasco.p\u00e9rez",
+   "aMaterno": "P\u00e9rez",
+   "fecha_nacimiento": {
+    "ano": 1990,
+    "dia": 17,
+    "mes": 6
+   },
+   "carrera": "Gastronom\u00eda",
+   "aPaterno": "Velasco"
+  },
+  {
+   "nombre": "Eunice",
+   "facultad": "Ingenier\u00eda",
+   "clave": "123456",
+   "matricula": "342436",
+   "correo": "eunice.villegas.moran",
+   "aMaterno": "Moran",
+   "fecha_nacimiento": {
+    "ano": 1992,
+    "dia": 6,
+    "mes": 7
+   },
+   "carrera": "Arquitecto",
+   "aPaterno": "Villegas"
+  },
+  {
+   "nombre": "Everardo",
+   "facultad": "Deportes",
+   "clave": "123456",
+   "matricula": "342437",
+   "correo": "everardo.rosas.villegas",
+   "aMaterno": "Villegas",
+   "fecha_nacimiento": {
+    "ano": 1986,
+    "dia": 16,
+    "mes": 3
+   },
+   "carrera": "Actividad F\u00edsica",
+   "aPaterno": "Rosas"
+  },
+  {
+   "nombre": "Gabriela",
+   "facultad": "Ingenier\u00eda",
+   "clave": "123456",
+   "matricula": "342438",
+   "correo": "gabriela.garc\u00eda.kubo",
+   "aMaterno": "Kubo",
+   "fecha_nacimiento": {
+    "ano": 1991,
+    "dia": 6,
+    "mes": 5
+   },
+   "carrera": "Bioingeniero",
+   "aPaterno": "Garc\u00eda"
+  },
+  {
+   "nombre": "David",
+   "facultad": "Marinas",
+   "clave": "123456",
+   "matricula": "342439",
+   "correo": "david.\u00e1lvarez.ram\u00edrez",
+   "aMaterno": "Ram\u00edrez",
+   "fecha_nacimiento": {
+    "ano": 1991,
+    "dia": 20,
+    "mes": 9
+   },
+   "carrera": "Oceanolog\u00eda",
+   "aPaterno": "\u00c1lvarez"
+  },
+  {
+   "nombre": "Gildardo",
+   "facultad": "Ciencias",
+   "clave": "123456",
+   "matricula": "342440",
+   "correo": "gildardo.moros.kubo",
+   "aMaterno": "Kubo",
+   "fecha_nacimiento": {
+    "ano": 1992,
+    "dia": 26,
+    "mes": 3
+   },
+   "carrera": "F\u00edsica",
+   "aPaterno": "Moros"
+  },
+  {
+   "nombre": "Rafael",
+   "facultad": "Ciencias",
+   "clave": "123456",
+   "matricula": "342441",
+   "correo": "rafael.l\u00f3pez.\u00e1lvarez",
+   "aMaterno": "\u00c1lvarez",
+   "fecha_nacimiento": {
+    "ano": 1986,
+    "dia": 18,
+    "mes": 4
+   },
+   "carrera": "Matem\u00e1ticas",
+   "aPaterno": "L\u00f3pez"
+  },
+  {
+   "nombre": "Eunice",
+   "facultad": "Ciencias",
+   "clave": "123456",
+   "matricula": "342442",
+   "correo": "eunice.p\u00e9rez.velasco",
    "aMaterno": "Velasco",
    "fecha_nacimiento": {
-    "dia": 11,
-    "mes": 7,
-    "ano": 1993
-   }
+    "ano": 1990,
+    "dia": 3,
+    "mes": 11
+   },
+   "carrera": "Matem\u00e1ticas",
+   "aPaterno": "P\u00e9rez"
   },
   {
-   "matricula": "342449",
-   "aPaterno": "Carrillo",
-   "nombre": "Victoria",
-   "correo": "victoria.carrillo.xochihua",
+   "nombre": "Humberto",
+   "facultad": "Gastronom\u00eda",
    "clave": "123456",
+   "matricula": "342443",
+   "correo": "humberto.rosas.xochihua",
    "aMaterno": "Xochihua",
    "fecha_nacimiento": {
-    "dia": 22,
-    "mes": 6,
-    "ano": 1990
-   }
+    "ano": 1986,
+    "dia": 16,
+    "mes": 8
+   },
+   "carrera": "Gastronom\u00eda",
+   "aPaterno": "Rosas"
+  },
+  {
+   "nombre": "Iv\u00e1n",
+   "facultad": "Deportes",
+   "clave": "123456",
+   "matricula": "342444",
+   "correo": "iv\u00e1n.\u00e1lvarez.covarrubias",
+   "aMaterno": "Covarrubias",
+   "fecha_nacimiento": {
+    "ano": 1988,
+    "dia": 4,
+    "mes": 6
+   },
+   "carrera": "Actividad F\u00edsica",
+   "aPaterno": "\u00c1lvarez"
+  },
+  {
+   "nombre": "Elo\u00edsa",
+   "facultad": "Gastronom\u00eda",
+   "clave": "123456",
+   "matricula": "342445",
+   "correo": "elo\u00edsa.moros.guti\u00e9rrez",
+   "aMaterno": "Guti\u00e9rrez",
+   "fecha_nacimiento": {
+    "ano": 1991,
+    "dia": 25,
+    "mes": 2
+   },
+   "carrera": "Gastronom\u00eda",
+   "aPaterno": "Moros"
+  },
+  {
+   "nombre": "Anairene",
+   "facultad": "Ingenier\u00eda",
+   "clave": "123456",
+   "matricula": "342446",
+   "correo": "anairene.ishihara.ram\u00edrez",
+   "aMaterno": "Ram\u00edrez",
+   "fecha_nacimiento": {
+    "ano": 1988,
+    "dia": 10,
+    "mes": 10
+   },
+   "carrera": "Bioingeniero",
+   "aPaterno": "Ishihara"
+  },
+  {
+   "nombre": "Rafael",
+   "facultad": "Deportes",
+   "clave": "123456",
+   "matricula": "342447",
+   "correo": "rafael.xochihua.guti\u00e9rrez",
+   "aMaterno": "Guti\u00e9rrez",
+   "fecha_nacimiento": {
+    "ano": 1991,
+    "dia": 27,
+    "mes": 6
+   },
+   "carrera": "Actividad F\u00edsica",
+   "aPaterno": "Xochihua"
+  },
+  {
+   "nombre": "Victoria",
+   "facultad": "Marinas",
+   "clave": "123456",
+   "matricula": "342448",
+   "correo": "victoria.villegas.blanco",
+   "aMaterno": "Blanco",
+   "fecha_nacimiento": {
+    "ano": 1993,
+    "dia": 5,
+    "mes": 7
+   },
+   "carrera": "Oceanolog\u00eda",
+   "aPaterno": "Villegas"
+  },
+  {
+   "nombre": "Anairene",
+   "facultad": "Ciencias",
+   "clave": "123456",
+   "matricula": "342449",
+   "correo": "anairene.velasco.moran",
+   "aMaterno": "Moran",
+   "fecha_nacimiento": {
+    "ano": 1994,
+    "dia": 26,
+    "mes": 11
+   },
+   "carrera": "Ciencias Computacionales",
+   "aPaterno": "Velasco"
   }
  ]
 }
