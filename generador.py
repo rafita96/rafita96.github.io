@@ -92,24 +92,23 @@ def kardex():
         file.write(json.dumps(kardexs, indent=1))
 
 def tutores():
-   tutores = {}
-   tutores["tutores"] = []
+    tutores = {}
+    tutores["tutores"] = []
+    
+    matriculas = [x + 342400 for x in range(250)]
+    
+    for _ in range(50):
+        tutor = collections.OrderedDict()
+        tutor["nombre"] = random.choice(nombres)
+        tutor["aPaterno"] = random.choice(apellidos)
+        tutor["aMaterno"] = random.choice(apellidos)
+        tutor["correo"] = ("%s.%s" % (tutor["nombre"], tutor["aPaterno"])).lower()
+        tutor["alumnos"] = []
+        for _ in range(5):
+            alumno = random.choice(matriculas)
+            tutor["alumnos"].append(alumno)
+            matriculas.remove(alumno)
+        tutores["tutores"].append(tutor)
 
-   matriculas = [x + 342400 for x in range(250)]
-
-   for _ in range(50):
-       tutor = collections.OrderedDict()
-       tutor["nombre"] = random.choice(nombres)
-       tutor["aPaterno"] = random.choice(apellidos)
-       tutor["aMaterno"] = random.choice(apellidos)
-       tutor["correo"] = ("%s.%s" % (tutor["nombre"], tutor["aPaterno"])).lower()
-       tutor["alumnos"] = []
-       for _ in range(5):
-           alumno = random.choice(matriculas)
-           tutor["alumnos"].append(alumno)
-           matriculas.remove(alumno)
-       tutores["tutores"].append(tutor)
-   with open("tutores.json", "w+", encoding="utf-8") as f:
-       f.write(json.dumps(tutores, indent=1))
-   
-tutores()
+    with open("tutores.json", "w+", encoding="utf-8") as f:
+        f.write(json.dumps(tutores, indent=1))
