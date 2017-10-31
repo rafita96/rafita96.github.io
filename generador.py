@@ -20,6 +20,9 @@ facultades = { "Ciencias" : ["Ciencias Computacionales", "Física", "Matemática
 "Ciencias de la Salud" : ["Enfermería", "Medicina"]
 }
 
+etapas = ["Basica", "Disciplinaria", "Terminal", "Optativa"]
+examenes = ["Ord", "Extra"]
+
 def alumnos():
     personas = {}
     personas["alumnos"] = []
@@ -52,4 +55,39 @@ def alumnos():
     with open("alumnos.json", "w+", encoding="utf-8") as file:
         file.write(json.dumps(personas, indent=1))
 
-alumnos()
+def kardex():
+    kardexs = {}
+    kardexs["alumnos"] = []
+
+
+    matricula = 342400
+
+    for i in range(50):
+        kardex = {}
+
+        
+        kardex["matricula"] = matricula
+
+        matricula += 1
+
+        kardex["materias"] = []
+        cant = random.randint(10, 15)
+        for i in range(cant):
+            materia = {}
+            materia["etapa"] = random.choice(etapas)
+            materia["codigo"] = random.randint(1, 200)
+
+            materia["calificacion"] = round(random.uniform(60, 100), 2)
+            kardex["materias"].append(materia)
+        
+            
+        kardex["cred_requeridos"] = random.randint(250, 350)
+        kardex["cred_cursados"] = random.randint(250, kardex["cred_requeridos"])
+
+
+        kardexs["alumnos"].append(kardex)
+
+    with open("kardexs.json", "w+", encoding="utf-8") as file:
+        file.write(json.dumps(kardexs, indent=1))
+
+kardex()
