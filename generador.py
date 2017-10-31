@@ -57,7 +57,7 @@ def alumnos():
 
 def kardex():
     kardexs = {}
-    kardexs["alumnos"] = []
+    kardexs["kardex"] = []
 
 
     matricula = 342400
@@ -85,7 +85,7 @@ def kardex():
         kardex["cred_cursados"] = random.randint(250, kardex["cred_requeridos"])
 
 
-        kardexs["alumnos"].append(kardex)
+        kardexs["kardex"].append(kardex)
 
     with open("kardexs.json", "w+", encoding="utf-8") as file:
         file.write(json.dumps(kardexs, indent=1))
