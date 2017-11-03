@@ -1,19 +1,19 @@
 {
  "alumnos": [
   {
-   "nombre": "Juan",
-   "facultad": "Gastronom\u00eda",
+   "nombre": "Eunice",
+   "facultad": "Ciencias",
    "clave": "123456",
    "matricula": "342400",
-   "correo": "juan.mart\u00ednez.villegas",
+   "correo": "eunice",
    "aMaterno": "Villegas",
    "fecha_nacimiento": {
-    "ano": 1998,
-    "dia": 10,
-    "mes": 5
+    "ano": 1996,
+    "dia": 20,
+    "mes": 7
    },
-   "carrera": "Gastronom\u00eda",
-   "aPaterno": "Mart\u00ednez"
+   "carrera": "Ciencias Computacionales",
+   "aPaterno": "Rios"
   },
   {
    "nombre": "Carlos",
