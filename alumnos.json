@@ -6,29 +6,29 @@
    "clave": "123456",
    "matricula": "342400",
    "correo": "eunice",
-   "aMaterno": "Villegas",
+   "aMaterno": "Rios",
    "fecha_nacimiento": {
     "ano": 1996,
     "dia": 20,
     "mes": 7
    },
    "carrera": "Ciencias Computacionales",
-   "aPaterno": "Rios"
+   "aPaterno": "Villegas"
   },
   {
-   "nombre": "Carlos",
-   "facultad": "Gastronom\u00eda",
+   "nombre": "Rafael",
+   "facultad": "Ciencias",
    "clave": "123456",
    "matricula": "342401",
-   "correo": "carlos.villegas.ram\u00edrez",
-   "aMaterno": "Ram\u00edrez",
+   "correo": "rafael",
+   "aMaterno": "Blanco",
    "fecha_nacimiento": {
-    "ano": 1998,
-    "dia": 3,
-    "mes": 10
+    "ano": 1996,
+    "dia": 10,
+    "mes": 7
    },
-   "carrera": "Gastronom\u00eda",
-   "aPaterno": "Villegas"
+   "carrera": "Ciencias Computacionales",
+   "aPaterno": "Peralta"
   },
   {
    "nombre": "Gabriela",
