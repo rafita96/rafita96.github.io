@@ -1,6 +1,4 @@
-import random
-import json
-import collections
+import random, json, collections
 
 nombres = ["Rafael", "Gildardo", "Roberto", "Manuel", "Anairene",
 "Eunice", "Gabriela", "David", "Humberto", "Iván", "Carlos", 
@@ -24,6 +22,16 @@ facultades = { "Ciencias" : ["Ciencias Computacionales", "Física", "Matemática
 etapas = ["Basica", "Disciplinaria", "Terminal", "Optativa"]
 examenes = ["Ord", "Extra"]
 
+def quitarAcentos(palabra):
+
+    palabra = palabra.replace("í", "i")
+    palabra = palabra.replace("é", "e")
+    palabra = palabra.replace("á", "a")
+    palabra = palabra.replace("ó", "o")
+    palabra = palabra.replace("ú", "u")
+
+    return palabra
+
 def alumnos():
     personas = {}
     personas["alumnos"] = []
@@ -31,15 +39,20 @@ def alumnos():
     matricula = 342400
 
     for i in range(50):
-        persona = {}
+        persona = collections.OrderedDict()
 
+        persona["matricula"] = str(matricula)
         persona["nombre"] = random.choice(nombres)
         persona["aPaterno"] = random.choice(apellidos)
         persona["aMaterno"] = random.choice(apellidos)
-        persona["matricula"] = str(matricula)
+        
         matricula += 1
 
-        persona["correo"] = (persona["nombre"] + "." + persona["aPaterno"] + "." + persona["aMaterno"]).lower()
+        correo = (persona["nombre"] + "." + persona["aPaterno"] + "." + persona["aMaterno"]).lower()
+            
+        correo = quitarAcentos(correo)
+
+        persona["correo"] = correo
         persona["clave"] = "123456"
 
         persona["fecha_nacimiento"] = {}
@@ -95,14 +108,20 @@ def tutores():
     tutores = {}
     tutores["tutores"] = []
     
-    matriculas = [x + 342400 for x in range(250)]
+    noEmpleado = 243400
+    matriculas = [x + 342400 for x in range(50)]
     
-    for _ in range(50):
+    for _ in range(10):
         tutor = collections.OrderedDict()
+        tutor["noEmpleado"] = noEmpleado
+        noEmpleado += 1
         tutor["nombre"] = random.choice(nombres)
         tutor["aPaterno"] = random.choice(apellidos)
         tutor["aMaterno"] = random.choice(apellidos)
-        tutor["correo"] = ("%s.%s" % (tutor["nombre"], tutor["aPaterno"])).lower()
+        correo = ("%s.%s" % (tutor["nombre"], tutor["aPaterno"])).lower()
+        correo = quitarAcentos(correo)
+        tutor["correo"] = correo
+        tutor["clave"] = 123456
         tutor["alumnos"] = []
         for _ in range(5):
             alumno = random.choice(matriculas)

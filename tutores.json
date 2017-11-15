@@ -1,653 +1,153 @@
 {
  "tutores": [
   {
-   "nombre": "Francisco",
-   "aPaterno": "Juarez",
-   "aMaterno": "Garcia",
-   "correo": "juarez",
+   "noEmpleado": 243400,
+   "nombre": "Anairene",
+   "aPaterno": "Ju\u00e1rez",
+   "aMaterno": "Mart\u00ednez",
+   "correo": "anairene.juarez",
+   "clave": 123456,
    "alumnos": [
-    342400,
-    342596,
-    342401,
-    342441,
-    342405
+    342406,
+    342405,
+    342433,
+    342410,
+    342428
    ]
   },
   {
-   "nombre": "Humberto",
-   "aPaterno": "Velasco",
-   "aMaterno": "Carrillo",
-   "correo": "humberto.velasco",
+   "noEmpleado": 243401,
+   "nombre": "Eunice",
+   "aPaterno": "Ishihara",
+   "aMaterno": "Villegas",
+   "correo": "eunice.ishihara",
+   "clave": 123456,
    "alumnos": [
-    342418,
-    342547,
-    342649,
-    342470,
+    342407,
+    342409,
+    342423,
+    342420,
     342442
    ]
   },
   {
-   "nombre": "Jos\u00e9",
-   "aPaterno": "G\u00f3mez",
-   "aMaterno": "Moran",
-   "correo": "jos\u00e9.g\u00f3mez",
-   "alumnos": [
-    342450,
-    342642,
-    342578,
-    342472,
-    342407
-   ]
-  },
-  {
-   "nombre": "Gabriela",
-   "aPaterno": "Le\u00f3n",
-   "aMaterno": "Ishihara",
-   "correo": "gabriela.le\u00f3n",
-   "alumnos": [
-    342556,
-    342542,
-    342583,
-    342415,
-    342592
-   ]
-  },
-  {
-   "nombre": "Leopoldo",
-   "aPaterno": "Ishihara",
-   "aMaterno": "Rosas",
-   "correo": "leopoldo.ishihara",
-   "alumnos": [
-    342422,
-    342575,
-    342591,
-    342490,
-    342562
-   ]
-  },
-  {
-   "nombre": "Omar",
-   "aPaterno": "Moran",
-   "aMaterno": "Kubo",
-   "correo": "omar.moran",
-   "alumnos": [
-    342594,
-    342482,
-    342536,
-    342451,
-    342518
-   ]
-  },
-  {
-   "nombre": "David",
-   "aPaterno": "Dom\u00ednguez",
-   "aMaterno": "Moran",
-   "correo": "david.dom\u00ednguez",
-   "alumnos": [
-    342574,
-    342448,
-    342502,
-    342511,
-    342402
-   ]
-  },
-  {
-   "nombre": "Jos\u00e9",
-   "aPaterno": "Kubo",
-   "aMaterno": "Mart\u00ednez",
-   "correo": "jos\u00e9.kubo",
-   "alumnos": [
-    342588,
-    342520,
-    342648,
-    342548,
-    342546
-   ]
-  },
-  {
-   "nombre": "Victoria",
-   "aPaterno": "Xochihua",
-   "aMaterno": "Guti\u00e9rrez",
-   "correo": "victoria.xochihua",
-   "alumnos": [
-    342545,
-    342416,
-    342590,
-    342506,
-    342473
-   ]
-  },
-  {
-   "nombre": "Juan",
-   "aPaterno": "Velasco",
-   "aMaterno": "\u00c1lvarez",
-   "correo": "juan.velasco",
-   "alumnos": [
-    342484,
-    342600,
-    342613,
-    342478,
-    342607
-   ]
-  },
-  {
-   "nombre": "Leopoldo",
-   "aPaterno": "Rosas",
-   "aMaterno": "Xochihua",
-   "correo": "leopoldo.rosas",
-   "alumnos": [
-    342488,
-    342463,
-    342582,
-    342528,
-    342412
-   ]
-  },
-  {
-   "nombre": "Juan",
-   "aPaterno": "Ur\u00edas",
-   "aMaterno": "Ram\u00edrez",
-   "correo": "juan.ur\u00edas",
-   "alumnos": [
-    342425,
-    342503,
-    342444,
-    342437,
-    342529
-   ]
-  },
-  {
-   "nombre": "Everardo",
-   "aPaterno": "Ishihara",
-   "aMaterno": "Covarrubias",
-   "correo": "everardo.ishihara",
-   "alumnos": [
-    342637,
-    342462,
-    342635,
-    342519,
-    342539
-   ]
-  },
-  {
-   "nombre": "Omar",
-   "aPaterno": "Rios",
-   "aMaterno": "Rosas",
-   "correo": "omar.rios",
-   "alumnos": [
-    342460,
-    342626,
-    342414,
-    342504,
-    342420
-   ]
-  },
-  {
-   "nombre": "Victoria",
-   "aPaterno": "\u00c1lvarez",
-   "aMaterno": "Le\u00f3n",
-   "correo": "victoria.\u00e1lvarez",
-   "alumnos": [
-    342549,
-    342629,
-    342569,
-    342505,
-    342429
-   ]
-  },
-  {
-   "nombre": "Omar",
-   "aPaterno": "Guti\u00e9rrez",
-   "aMaterno": "Mart\u00ednez",
-   "correo": "omar.guti\u00e9rrez",
-   "alumnos": [
-    342424,
-    342525,
-    342454,
-    342587,
-    342491
-   ]
-  },
-  {
-   "nombre": "Everardo",
-   "aPaterno": "Villegas",
-   "aMaterno": "Carrillo",
-   "correo": "everardo.villegas",
-   "alumnos": [
-    342561,
-    342413,
-    342641,
-    342439,
-    342647
-   ]
-  },
-  {
-   "nombre": "Victoria",
-   "aPaterno": "G\u00f3mez",
-   "aMaterno": "Covarrubias",
-   "correo": "victoria.g\u00f3mez",
-   "alumnos": [
-    342610,
-    342552,
-    342515,
-    342603,
-    342564
-   ]
-  },
-  {
-   "nombre": "Jos\u00e9",
-   "aPaterno": "Canseco",
-   "aMaterno": "P\u00e9rez",
-   "correo": "jos\u00e9.canseco",
-   "alumnos": [
-    342417,
-    342489,
-    342508,
-    342608,
-    342452
-   ]
-  },
-  {
-   "nombre": "Carlos",
-   "aPaterno": "\u00c1lvarez",
-   "aMaterno": "Blanco",
-   "correo": "carlos.\u00e1lvarez",
-   "alumnos": [
-    342446,
-    342553,
-    342550,
-    342530,
-    342632
-   ]
-  },
-  {
-   "nombre": "Evelio",
-   "aPaterno": "Le\u00f3n",
-   "aMaterno": "Galv\u00e1n",
-   "correo": "evelio.le\u00f3n",
-   "alumnos": [
-    342465,
-    342500,
-    342579,
-    342487,
-    342576
-   ]
-  },
-  {
-   "nombre": "Juan",
-   "aPaterno": "Mart\u00ednez",
-   "aMaterno": "Canseco",
-   "correo": "juan.mart\u00ednez",
-   "alumnos": [
-    342403,
-    342461,
-    342555,
-    342423,
-    342580
-   ]
-  },
-  {
-   "nombre": "Leopoldo",
-   "aPaterno": "Kubo",
-   "aMaterno": "Carrillo",
-   "correo": "leopoldo.kubo",
-   "alumnos": [
-    342483,
-    342464,
-    342430,
-    342477,
-    342599
-   ]
-  },
-  {
-   "nombre": "Everardo",
-   "aPaterno": "Dom\u00ednguez",
-   "aMaterno": "Le\u00f3n",
-   "correo": "everardo.dom\u00ednguez",
-   "alumnos": [
-    342616,
-    342476,
-    342643,
-    342458,
-    342559
-   ]
-  },
-  {
+   "noEmpleado": 243402,
    "nombre": "Francisco",
-   "aPaterno": "G\u00f3mez",
-   "aMaterno": "Ishihara",
-   "correo": "francisco.g\u00f3mez",
+   "aPaterno": "Moran",
+   "aMaterno": "\u00c1lvarez",
+   "correo": "francisco.moran",
+   "clave": 123456,
    "alumnos": [
-    342485,
-    342612,
-    342513,
-    342445,
-    342493
-   ]
-  },
-  {
-   "nombre": "Eunice",
-   "aPaterno": "Dom\u00ednguez",
-   "aMaterno": "Dom\u00ednguez",
-   "correo": "eunice.dom\u00ednguez",
-   "alumnos": [
-    342605,
-    342447,
-    342646,
-    342630,
-    342469
-   ]
-  },
-  {
-   "nombre": "Gabriela",
-   "aPaterno": "Covarrubias",
-   "aMaterno": "Blanco",
-   "correo": "gabriela.covarrubias",
-   "alumnos": [
-    342551,
-    342449,
-    342438,
-    342572,
-    342568
-   ]
-  },
-  {
-   "nombre": "Pedro",
-   "aPaterno": "Guti\u00e9rrez",
-   "aMaterno": "G\u00f3mez",
-   "correo": "pedro.guti\u00e9rrez",
-   "alumnos": [
-    342457,
-    342615,
-    342474,
-    342634,
-    342494
-   ]
-  },
-  {
-   "nombre": "Roberto",
-   "aPaterno": "Ju\u00e1rez",
-   "aMaterno": "Ram\u00edrez",
-   "correo": "roberto.ju\u00e1rez",
-   "alumnos": [
-    342453,
-    342604,
-    342577,
-    342436,
-    342595
-   ]
-  },
-  {
-   "nombre": "Omar",
-   "aPaterno": "Xochihua",
-   "aMaterno": "G\u00f3mez",
-   "correo": "omar.xochihua",
-   "alumnos": [
-    342622,
-    342623,
-    342563,
-    342524,
-    342521
-   ]
-  },
-  {
-   "nombre": "Anairene",
-   "aPaterno": "Ur\u00edas",
-   "aMaterno": "Mart\u00ednez",
-   "correo": "anairene.ur\u00edas",
-   "alumnos": [
-    342509,
-    342621,
-    342456,
-    342419,
-    342640
-   ]
-  },
-  {
-   "nombre": "Leopoldo",
-   "aPaterno": "Dom\u00ednguez",
-   "aMaterno": "Ram\u00edrez",
-   "correo": "leopoldo.dom\u00ednguez",
-   "alumnos": [
-    342567,
-    342501,
-    342428,
-    342560,
-    342455
-   ]
-  },
-  {
-   "nombre": "Gabriela",
-   "aPaterno": "L\u00f3pez",
-   "aMaterno": "Garc\u00eda",
-   "correo": "gabriela.l\u00f3pez",
-   "alumnos": [
-    342522,
-    342570,
-    342406,
-    342479,
-    342467
-   ]
-  },
-  {
-   "nombre": "Victoria",
-   "aPaterno": "Ishihara",
-   "aMaterno": "G\u00f3mez",
-   "correo": "victoria.ishihara",
-   "alumnos": [
+    342411,
+    342432,
+    342418,
     342440,
-    342565,
-    342611,
-    342566,
     342431
    ]
   },
   {
-   "nombre": "Eunice",
-   "aPaterno": "Blanco",
-   "aMaterno": "L\u00f3pez",
-   "correo": "eunice.blanco",
-   "alumnos": [
-    342573,
-    342535,
-    342481,
-    342597,
-    342627
-   ]
-  },
-  {
-   "nombre": "Gildardo",
-   "aPaterno": "Le\u00f3n",
-   "aMaterno": "Kubo",
-   "correo": "gildardo.le\u00f3n",
-   "alumnos": [
-    342532,
-    342507,
-    342581,
-    342527,
-    342471
-   ]
-  },
-  {
-   "nombre": "Rafael",
-   "aPaterno": "Ram\u00edrez",
-   "aMaterno": "Carrillo",
-   "correo": "rafael.ram\u00edrez",
-   "alumnos": [
-    342432,
-    342571,
-    342533,
-    342541,
-    342534
-   ]
-  },
-  {
-   "nombre": "Elo\u00edsa",
-   "aPaterno": "Moran",
-   "aMaterno": "Velasco",
-   "correo": "elo\u00edsa.moran",
-   "alumnos": [
-    342526,
-    342531,
-    342466,
-    342498,
-    342636
-   ]
-  },
-  {
-   "nombre": "Rafael",
-   "aPaterno": "Moran",
-   "aMaterno": "L\u00f3pez",
-   "correo": "rafael.moran",
-   "alumnos": [
-    342625,
-    342433,
-    342459,
-    342538,
-    342497
-   ]
-  },
-  {
-   "nombre": "David",
-   "aPaterno": "Ju\u00e1rez",
-   "aMaterno": "Blanco",
-   "correo": "david.ju\u00e1rez",
-   "alumnos": [
-    342624,
-    342517,
-    342404,
-    342443,
-    342492
-   ]
-  },
-  {
-   "nombre": "Omar",
-   "aPaterno": "\u00c1lvarez",
-   "aMaterno": "Velasco",
-   "correo": "omar.\u00e1lvarez",
-   "alumnos": [
-    342435,
-    342645,
-    342617,
-    342589,
-    342540
-   ]
-  },
-  {
-   "nombre": "Elo\u00edsa",
-   "aPaterno": "Ishihara",
+   "noEmpleado": 243403,
+   "nombre": "Victoria",
+   "aPaterno": "Moros",
    "aMaterno": "P\u00e9rez",
-   "correo": "elo\u00edsa.ishihara",
+   "correo": "victoria.moros",
+   "clave": 123456,
    "alumnos": [
-    342618,
-    342510,
-    342427,
-    342601,
-    342606
+    342412,
+    342446,
+    342419,
+    342430,
+    342401
    ]
   },
   {
-   "nombre": "Gabriela",
+   "noEmpleado": 243404,
+   "nombre": "Pedro",
    "aPaterno": "Le\u00f3n",
-   "aMaterno": "Galv\u00e1n",
-   "correo": "gabriela.le\u00f3n",
+   "aMaterno": "L\u00f3pez",
+   "correo": "pedro.leon",
+   "clave": 123456,
    "alumnos": [
-    342557,
-    342638,
-    342426,
-    342434,
-    342468
-   ]
-  },
-  {
-   "nombre": "Omar",
-   "aPaterno": "Ur\u00edas",
-   "aMaterno": "Dom\u00ednguez",
-   "correo": "omar.ur\u00edas",
-   "alumnos": [
-    342598,
-    342609,
+    342427,
+    342437,
     342421,
-    342475,
-    342486
+    342449,
+    342447
    ]
   },
   {
-   "nombre": "Omar",
-   "aPaterno": "Ur\u00edas",
-   "aMaterno": "Moran",
-   "correo": "omar.ur\u00edas",
+   "noEmpleado": 243405,
+   "nombre": "Leopoldo",
+   "aPaterno": "Galv\u00e1n",
+   "aMaterno": "Carrillo",
+   "correo": "leopoldo.galvan",
+   "clave": 123456,
    "alumnos": [
-    342496,
-    342614,
-    342537,
-    342586,
-    342410
+    342416,
+    342448,
+    342434,
+    342413,
+    342441
    ]
   },
   {
-   "nombre": "Elo\u00edsa",
-   "aPaterno": "Ram\u00edrez",
+   "noEmpleado": 243406,
+   "nombre": "Jos\u00e9",
+   "aPaterno": "Rosas",
    "aMaterno": "Kubo",
-   "correo": "elo\u00edsa.ram\u00edrez",
+   "correo": "jose.rosas",
+   "clave": 123456,
    "alumnos": [
-    342512,
-    342543,
-    342514,
-    342409,
-    342544
+    342424,
+    342443,
+    342439,
+    342400,
+    342435
    ]
   },
   {
-   "nombre": "Eunice",
-   "aPaterno": "\u00c1lvarez",
-   "aMaterno": "Peralta",
-   "correo": "eunice.\u00e1lvarez",
+   "noEmpleado": 243407,
+   "nombre": "Iv\u00e1n",
+   "aPaterno": "Rosas",
+   "aMaterno": "Canseco",
+   "correo": "ivan.rosas",
+   "clave": 123456,
    "alumnos": [
-    342584,
-    342631,
-    342628,
-    342516,
-    342620
+    342402,
+    342422,
+    342426,
+    342445,
+    342404
    ]
   },
   {
-   "nombre": "Eunice",
-   "aPaterno": "Blanco",
-   "aMaterno": "Moros",
-   "correo": "eunice.blanco",
+   "noEmpleado": 243408,
+   "nombre": "Leopoldo",
+   "aPaterno": "Kubo",
+   "aMaterno": "Carrillo",
+   "correo": "leopoldo.kubo",
+   "clave": 123456,
    "alumnos": [
-    342495,
-    342523,
-    342554,
-    342558,
-    342639
+    342403,
+    342438,
+    342436,
+    342417,
+    342415
    ]
   },
   {
-   "nombre": "Gildardo",
-   "aPaterno": "Ram\u00edrez",
-   "aMaterno": "\u00c1lvarez",
-   "correo": "gildardo.ram\u00edrez",
-   "alumnos": [
-    342619,
-    342499,
-    342644,
-    342585,
-    342411
-   ]
-  },
-  {
-   "nombre": "Roberto",
+   "noEmpleado": 243409,
+   "nombre": "Humberto",
    "aPaterno": "Dom\u00ednguez",
-   "aMaterno": "Xochihua",
-   "correo": "roberto.dom\u00ednguez",
+   "aMaterno": "Guti\u00e9rrez",
+   "correo": "humberto.dominguez",
+   "clave": 123456,
    "alumnos": [
-    342480,
-    342633,
-    342408,
-    342602,
-    342593
+    342429,
+    342425,
+    342444,
+    342414,
+    342408
    ]
   }
  ]
