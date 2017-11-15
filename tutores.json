@@ -1,14 +1,14 @@
 {
  "tutores": [
   {
-   "nombre": "Carlos",
-   "aPaterno": "Ur\u00edas",
-   "aMaterno": "Peralta",
-   "correo": "carlos.ur\u00edas",
+   "nombre": "Francisco",
+   "aPaterno": "Juarez",
+   "aMaterno": "Garcia",
+   "correo": "juarez",
    "alumnos": [
-    342418,
+    342400,
     342596,
-    342475,
+    342401,
     342441,
     342405
    ]
@@ -19,7 +19,7 @@
    "aMaterno": "Carrillo",
    "correo": "humberto.velasco",
    "alumnos": [
-    342400,
+    342418,
     342547,
     342649,
     342470,
@@ -568,7 +568,7 @@
     342598,
     342609,
     342421,
-    342401,
+    342475,
     342486
    ]
   },
