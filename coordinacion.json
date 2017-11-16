@@ -1,7 +1,7 @@
 {
   "coordinacion": [
     {
-      "usuario": coord,
+      "usuario": "coord",
       "clave": 123456
     }
   ]
