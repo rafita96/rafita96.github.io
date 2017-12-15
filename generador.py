@@ -1,5 +1,24 @@
 import random, json, collections
 
+uabc =["Universidad Autónoma de Baja California"]
+
+gradoAcademico = ["Licenciatura", "Maestría", "Posgrado"]
+
+unidadAcademica = ["Escuela de Ciencias de la Salud", "Escuela de enología", "Facultad de Artes",
+                   "Facultad de Ciencias", "Facultad de Ciencias Administrativas y Sociales",
+                   "Facultad de Ciencias Marinas", "Facultad de Deportes", "Facultad de Idiomas",
+                   "Facultad de Ingeniería y Negocios-San Quintín", "Facultad de Ingeniería, Arquitectura y Diseño"]
+
+campus = ["Ensenada", "Mexicali", "Tijuana"]
+
+etapa = ["Básica", "Disciplinaria", "Terminal"]
+
+periodoIngreso = ["2014-1", "2014-2", "2015-1", "2015-2", "2016-1", "2016-2", "2017-1", "2017-2"]
+
+semestreActual = ["Cuarto", "Quinto", "Sexto", "Septimo"]
+
+
+
 nombres = ["Rafael", "Gildardo", "Roberto", "Manuel", "Anairene",
 "Eunice", "Gabriela", "David", "Humberto", "Iván", "Carlos", 
 "José", "Juan", "Pedro", "Jesús", "Victoria", "María", "Everardo",
@@ -61,14 +80,24 @@ def alumnos():
         persona["fecha_nacimiento"]["mes"] = random.randint(1, 12)
         persona["fecha_nacimiento"]["ano"] = random.randint(1985, 1999)
 
+        persona["campus"] = random.choice(campus)
         persona["facultad"] = random.choice(list(facultades.keys()))
         persona["carrera"] = random.choice( facultades[persona["facultad"]] )
+        persona["grado_academico"] = random.choice(gradoAcademico)
+
+        persona["etapa"] = random.choice(etapa)
+        persona["promedio"] = random.randint(80, 100)
+        persona["cred_requeridos"] = random.randint(250, 350)
+        persona["cred_cursados"] = random.randint(250, persona["cred_requeridos"])
+
+        persona["periodo_ingreso"] = random.choice(periodoIngreso)
+        persona["semestre_actual"] = random.choice(semestreActual)
 
         personas["alumnos"].append(persona)
 
     with open("alumnos.json", "w+", encoding="utf-8") as file:
         file.write(json.dumps(personas, indent=1))
-
+        
 def kardex():
     kardexs = {}
     kardexs["kardex"] = []
