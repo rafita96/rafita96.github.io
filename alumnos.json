@@ -1,7 +1,7 @@
 {
  "alumnos": [
   {
-   "matricula": "342400",
+   "matricula": "342300",
    "nombre": "Roberto",
    "aPaterno": "Rosas",
    "aMaterno": "Dom\u00ednguez",
@@ -70,7 +70,7 @@
    "semestre_actual": "Sexto"
   },
   {
-   "matricula": "342401",
+   "matricula": "342301",
    "nombre": "Gabriela",
    "aPaterno": "Le\u00f3n",
    "aMaterno": "Ishihara",
