@@ -151,6 +151,7 @@ def tutores():
         correo = quitarAcentos(correo)
         tutor["correo"] = correo
         tutor["clave"] = 123456
+        tutor["numeroTelefonico"] = str(random.randint(6461111111, 6469999999))
         tutor["alumnos"] = []
         for _ in range(5):
             alumno = random.choice(matriculas)

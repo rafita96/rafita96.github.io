@@ -2,152 +2,162 @@
  "tutores": [
   {
    "noEmpleado": 243400,
-   "nombre": "Anairene",
-   "aPaterno": "Ju\u00e1rez",
-   "aMaterno": "Mart\u00ednez",
-   "correo": "anairene.juarez",
+   "nombre": "Evelio",
+   "aPaterno": "Meza",
+   "aMaterno": "Ishihara",
+   "correo": "evelio.meza",
    "clave": 123456,
+   "numeroTelefonico": "6463845507",
    "alumnos": [
-    342406,
-    342405,
-    342433,
+    342447,
+    342439,
+    342424,
     342410,
-    342428
+    342406
    ]
   },
   {
    "noEmpleado": 243401,
-   "nombre": "Eunice",
-   "aPaterno": "Ishihara",
-   "aMaterno": "Villegas",
-   "correo": "eunice.ishihara",
+   "nombre": "Gildardo",
+   "aPaterno": "Villegas",
+   "aMaterno": "Moran",
+   "correo": "gildardo.villegas",
    "clave": 123456,
+   "numeroTelefonico": "6467140217",
    "alumnos": [
-    342407,
-    342409,
-    342423,
-    342420,
-    342442
+    342428,
+    342412,
+    342441,
+    342442,
+    342433
    ]
   },
   {
    "noEmpleado": 243402,
-   "nombre": "Francisco",
-   "aPaterno": "Moran",
-   "aMaterno": "\u00c1lvarez",
-   "correo": "francisco.moran",
+   "nombre": "Gildardo",
+   "aPaterno": "Blanco",
+   "aMaterno": "Ur\u00edas",
+   "correo": "gildardo.blanco",
    "clave": 123456,
+   "numeroTelefonico": "6469505259",
    "alumnos": [
-    342411,
-    342432,
-    342418,
-    342440,
-    342431
+    342404,
+    342434,
+    342443,
+    342425,
+    342448
    ]
   },
   {
    "noEmpleado": 243403,
-   "nombre": "Victoria",
-   "aPaterno": "Moros",
-   "aMaterno": "P\u00e9rez",
-   "correo": "victoria.moros",
+   "nombre": "David",
+   "aPaterno": "Garc\u00eda",
+   "aMaterno": "Carrillo",
+   "correo": "david.garcia",
    "clave": 123456,
+   "numeroTelefonico": "6467669388",
    "alumnos": [
-    342412,
-    342446,
-    342419,
-    342430,
-    342401
+    342431,
+    342449,
+    342407,
+    342426,
+    342421
    ]
   },
   {
    "noEmpleado": 243404,
-   "nombre": "Pedro",
-   "aPaterno": "Le\u00f3n",
-   "aMaterno": "L\u00f3pez",
-   "correo": "pedro.leon",
+   "nombre": "Jes\u00fas",
+   "aPaterno": "Canseco",
+   "aMaterno": "Rosas",
+   "correo": "jesus.canseco",
    "clave": 123456,
+   "numeroTelefonico": "6465160717",
    "alumnos": [
-    342427,
-    342437,
-    342421,
-    342449,
-    342447
+    342444,
+    342416,
+    342415,
+    342411,
+    342419
    ]
   },
   {
    "noEmpleado": 243405,
-   "nombre": "Leopoldo",
-   "aPaterno": "Galv\u00e1n",
-   "aMaterno": "Carrillo",
-   "correo": "leopoldo.galvan",
+   "nombre": "Iv\u00e1n",
+   "aPaterno": "Mart\u00ednez",
+   "aMaterno": "Ju\u00e1rez",
+   "correo": "ivan.martinez",
    "clave": 123456,
+   "numeroTelefonico": "6463003696",
    "alumnos": [
-    342416,
-    342448,
-    342434,
+    342402,
+    342420,
+    342414,
     342413,
-    342441
+    342437
    ]
   },
   {
    "noEmpleado": 243406,
-   "nombre": "Jos\u00e9",
-   "aPaterno": "Rosas",
-   "aMaterno": "Kubo",
-   "correo": "jose.rosas",
+   "nombre": "Jes\u00fas",
+   "aPaterno": "P\u00e9rez",
+   "aMaterno": "Dom\u00ednguez",
+   "correo": "jesus.perez",
    "clave": 123456,
+   "numeroTelefonico": "6465057669",
    "alumnos": [
-    342424,
-    342443,
-    342439,
-    342400,
-    342435
+    342427,
+    342445,
+    342422,
+    342430,
+    342440
    ]
   },
   {
    "noEmpleado": 243407,
    "nombre": "Iv\u00e1n",
    "aPaterno": "Rosas",
-   "aMaterno": "Canseco",
+   "aMaterno": "Ju\u00e1rez",
    "correo": "ivan.rosas",
    "clave": 123456,
+   "numeroTelefonico": "6467110740",
    "alumnos": [
-    342402,
-    342422,
-    342426,
-    342445,
-    342404
+    342418,
+    342436,
+    342417,
+    342423,
+    342446
    ]
   },
   {
    "noEmpleado": 243408,
-   "nombre": "Leopoldo",
-   "aPaterno": "Kubo",
-   "aMaterno": "Carrillo",
-   "correo": "leopoldo.kubo",
+   "nombre": "Victoria",
+   "aPaterno": "Moros",
+   "aMaterno": "Galv\u00e1n",
+   "correo": "victoria.moros",
    "clave": 123456,
+   "numeroTelefonico": "6469459599",
    "alumnos": [
-    342403,
+    342432,
+    342401,
     342438,
-    342436,
-    342417,
-    342415
+    342403,
+    342405
    ]
   },
   {
    "noEmpleado": 243409,
-   "nombre": "Humberto",
-   "aPaterno": "Dom\u00ednguez",
-   "aMaterno": "Guti\u00e9rrez",
-   "correo": "humberto.dominguez",
+   "nombre": "Everardo",
+   "aPaterno": "\u00c1lvarez",
+   "aMaterno": "Peralta",
+   "correo": "everardo.alvarez",
    "clave": 123456,
+   "numeroTelefonico": "6467433854",
    "alumnos": [
+    342408,
     342429,
-    342425,
-    342444,
-    342414,
-    342408
+    342409,
+    342400,
+    342435
    ]
   }
  ]
