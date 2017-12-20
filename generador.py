@@ -133,6 +133,20 @@ def kardex():
     with open("kardexs.json", "w+", encoding="utf-8") as file:
         file.write(json.dumps(kardexs, indent=1))
 
+def genFacultades():
+    fac = {}
+    for facultad in facultades:
+        fac[facultad] = collections.OrderedDict()
+        fac[facultad]["carreras"] = facultades[facultad]
+
+        fac[facultad]["coordinador"] = collections.OrderedDict()
+        fac[facultad]["coordinador"]["nombre"] = random.choice(nombres)
+        fac[facultad]["coordinador"]["aPaterno"] = random.choice(apellidos)
+        fac[facultad]["coordinador"]["aMaterno"] = random.choice(apellidos)
+
+    with open("facultades.json", "w+", encoding="utf-8") as f:
+        f.write(json.dumps(fac, indent=1))
+
 def tutores():
     tutores = {}
     tutores["tutores"] = []
