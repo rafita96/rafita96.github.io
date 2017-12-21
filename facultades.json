@@ -1,46 +1,13 @@
 {
- "Ciencias de la Salud": {
-  "carreras": [
-   "Enfermer\u00eda",
-   "Medicina"
-  ],
-  "coordinador": {
-   "nombre": "Eunice",
-   "aPaterno": "Moros",
-   "aMaterno": "L\u00f3pez"
-  }
- },
- "Gastronom\u00eda": {
-  "carreras": [
-   "Gastronom\u00eda"
-  ],
-  "coordinador": {
-   "nombre": "Roberto",
-   "aPaterno": "Garc\u00eda",
-   "aMaterno": "Ram\u00edrez"
-  }
- },
- "Ciencias": {
-  "carreras": [
-   "Ciencias Computacionales",
-   "F\u00edsica",
-   "Matem\u00e1ticas",
-   "Biolog\u00eda"
-  ],
-  "coordinador": {
-   "nombre": "Omar",
-   "aPaterno": "Xochihua",
-   "aMaterno": "G\u00f3mez"
-  }
- },
  "Deportes": {
   "carreras": [
    "Actividad F\u00edsica"
   ],
   "coordinador": {
-   "nombre": "Roberto",
-   "aPaterno": "Moran",
-   "aMaterno": "Covarrubias"
+   "nombre": "Pedro",
+   "aPaterno": "Mart\u00ednez",
+   "aMaterno": "Villegas",
+   "numeroTelefonico": "6466708093"
   }
  },
  "Marinas": {
@@ -50,9 +17,22 @@
    "Biotecnolog\u00eda en Acuacultura"
   ],
   "coordinador": {
-   "nombre": "Anairene",
-   "aPaterno": "Rios",
-   "aMaterno": "Galv\u00e1n"
+   "nombre": "Gildardo",
+   "aPaterno": "\u00c1lvarez",
+   "aMaterno": "Peralta",
+   "numeroTelefonico": "6462489886"
+  }
+ },
+ "Ciencias de la Salud": {
+  "carreras": [
+   "Enfermer\u00eda",
+   "Medicina"
+  ],
+  "coordinador": {
+   "nombre": "Jos\u00e9",
+   "aPaterno": "Galv\u00e1n",
+   "aMaterno": "Le\u00f3n",
+   "numeroTelefonico": "6462710498"
   }
  },
  "Ingenier\u00eda": {
@@ -66,9 +46,35 @@
    "Ingeniero en Nanotecnologia"
   ],
   "coordinador": {
-   "nombre": "Gabriela",
-   "aPaterno": "Ur\u00edas",
-   "aMaterno": "Carrillo"
+   "nombre": "Mar\u00eda",
+   "aPaterno": "Ram\u00edrez",
+   "aMaterno": "Villegas",
+   "numeroTelefonico": "6464816778"
+  }
+ },
+ "Ciencias": {
+  "carreras": [
+   "Ciencias Computacionales",
+   "F\u00edsica",
+   "Matem\u00e1ticas",
+   "Biolog\u00eda"
+  ],
+  "coordinador": {
+   "nombre": "Everardo",
+   "aPaterno": "Velasco",
+   "aMaterno": "Dom\u00ednguez",
+   "numeroTelefonico": "6464343009"
+  }
+ },
+ "Gastronom\u00eda": {
+  "carreras": [
+   "Gastronom\u00eda"
+  ],
+  "coordinador": {
+   "nombre": "Manuel",
+   "aPaterno": "Ishihara",
+   "aMaterno": "Rios",
+   "numeroTelefonico": "6468071337"
   }
  }
 }

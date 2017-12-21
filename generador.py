@@ -143,6 +143,7 @@ def genFacultades():
         fac[facultad]["coordinador"]["nombre"] = random.choice(nombres)
         fac[facultad]["coordinador"]["aPaterno"] = random.choice(apellidos)
         fac[facultad]["coordinador"]["aMaterno"] = random.choice(apellidos)
+        fac[facultad]["coordinador"]["numeroTelefonico"] = str(random.randint(6461111111, 6469999999))
 
     with open("facultades.json", "w+", encoding="utf-8") as f:
         f.write(json.dumps(fac, indent=1))
