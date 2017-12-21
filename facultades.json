@@ -1,0 +1,74 @@
+{
+ "Ciencias de la Salud": {
+  "carreras": [
+   "Enfermer\u00eda",
+   "Medicina"
+  ],
+  "coordinador": {
+   "nombre": "Eunice",
+   "aPaterno": "Moros",
+   "aMaterno": "L\u00f3pez"
+  }
+ },
+ "Gastronom\u00eda": {
+  "carreras": [
+   "Gastronom\u00eda"
+  ],
+  "coordinador": {
+   "nombre": "Roberto",
+   "aPaterno": "Garc\u00eda",
+   "aMaterno": "Ram\u00edrez"
+  }
+ },
+ "Ciencias": {
+  "carreras": [
+   "Ciencias Computacionales",
+   "F\u00edsica",
+   "Matem\u00e1ticas",
+   "Biolog\u00eda"
+  ],
+  "coordinador": {
+   "nombre": "Omar",
+   "aPaterno": "Xochihua",
+   "aMaterno": "G\u00f3mez"
+  }
+ },
+ "Deportes": {
+  "carreras": [
+   "Actividad F\u00edsica"
+  ],
+  "coordinador": {
+   "nombre": "Roberto",
+   "aPaterno": "Moran",
+   "aMaterno": "Covarrubias"
+  }
+ },
+ "Marinas": {
+  "carreras": [
+   "Oceanolog\u00eda",
+   "Ciencias Ambientales",
+   "Biotecnolog\u00eda en Acuacultura"
+  ],
+  "coordinador": {
+   "nombre": "Anairene",
+   "aPaterno": "Rios",
+   "aMaterno": "Galv\u00e1n"
+  }
+ },
+ "Ingenier\u00eda": {
+  "carreras": [
+   "Ingeniero Civil",
+   "Ingeniero Electr\u00f3nico",
+   "Ingeniero en Computaci\u00f3n",
+   "Ingeniero Industrial",
+   "Arquitecto",
+   "Bioingeniero",
+   "Ingeniero en Nanotecnologia"
+  ],
+  "coordinador": {
+   "nombre": "Gabriela",
+   "aPaterno": "Ur\u00edas",
+   "aMaterno": "Carrillo"
+  }
+ }
+}
