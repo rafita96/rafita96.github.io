@@ -1,0 +1,139 @@
+:root {
+  --main-bg-color: #FFFEE0;
+}
+
+body {
+	display: grid;
+	grid-template-columns: 3fr 9fr 3fr;
+	grid-template-rows: auto;
+	grid-template-areas: 
+	"header header header header"
+	"main main main main"
+	"footer footer footer footer";
+}
+
+header {
+	background-color: #080700;
+	padding: 5rem 10rem;
+	color: #fff;
+	grid-area: header;
+	display: grid;
+	grid-template-columns: 1fr 3fr;
+	grid-gap: 1rem;
+	grid-auto-rows: minmax(100px, auto);
+	align-items: end;
+}
+
+nav {
+	justify-self: end;
+}
+
+.logo {
+	font-size: 4rem;
+}
+
+.navbar {
+	list-style-type: none;
+	overflow: hidden;
+	text-align: center;
+}
+
+.navbar > li {
+	display: inline;
+}
+
+.nav-item > a {
+	text-decoration: none;
+	color: #fff;
+	padding: 3rem 1rem;
+	font-size: 1.5rem;
+}
+
+.nav-icon > a {
+	text-decoration: none;
+	color: #fff;
+	padding: 2rem 1rem;
+	font-size: 3rem;
+}
+
+main {
+	grid-area: main;
+}
+
+.stripe {
+	margin: 6rem 0rem;
+}
+
+.stripe-text {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
+.h-no {
+	font-size: 3rem;
+	font-weight: 400;
+}
+
+.h-si {
+	font-size: 3rem;
+	font-weight: 800;
+	color: #0E232E;
+	margin-left: 15%;
+	margin-right: 10%;
+}
+
+.text-block {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	font-size: 1.5rem;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+.full-width {
+	margin-left: 18%;
+	margin-right: 18%;
+}
+
+.title {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	color: #0E232E;
+	font-size: 4rem;	
+}
+
+.section-title {
+	margin-left: 10rem;
+	margin-bottom: 4rem;
+	margin-top: 5rem;
+}
+
+.separator {
+	border-top-color: #0E232E;
+	border-style: solid;
+	border-top-width: 3px;
+	margin-left: 12%;
+	margin-right: 12%;
+	margin-top: 6rem;
+}
+
+.services-container {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	margin-left: 18%;
+	margin-right: 18%;
+	grid-gap: 3rem;
+}
+
+.services-container > section {
+	justify-self: center;
+}
+
+.services-container > section > img {
+  object-fit: cover;
+  width: 100%;
+  max-height: 100%;
+}
